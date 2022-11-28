@@ -14,7 +14,7 @@
 
 6. El comando para dibujar el gŕafico es graph
 
-7. No podría ser fast forward porque si elimino el merge perdería cambios
+7. Én el paso 26 sí podría hacerce merge fast forward ya que git lo hace por defecto
 
 8. En el paso 27 utilicé git reset HEAD~1
 
