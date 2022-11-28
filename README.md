@@ -4,5 +4,5 @@
    último commit y además ulilizo el abributo hard para borrar los cambios en el working copy
 2. Para rehacer el últim commit utilizo git reset b2ab6d7 para volver a donde estábamos
 
-3.
+3. En el merge del paso 13 no se creó ningún conflicto
 
