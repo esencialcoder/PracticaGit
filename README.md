@@ -13,7 +13,6 @@
 
 6. El comando para dibujar el gŕafico es graph
 
-<<<<<<< HEAD
 7. No podría ser fast forward porque si elimino el merge perdería cambios
 
 8. En el paso 27 utilicé git reset HEAD~1
@@ -27,8 +26,4 @@
 12. El paso 32 utilizo git checkout con el Id del commit donde creé el poema
 
 13. El paso 33 git reset con el Id del commit al que le puse títul al poema
-=======
-7. No podría ser forward porque si elimino el merge perdería cambios
 
-8. 
->>>>>>> d59cf5f6abf66cd9f752af425f9f71a22745ab7d
